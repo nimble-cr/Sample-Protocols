@@ -11,7 +11,7 @@ Each file is organized by:
 - **Sponsor or Institution Name**
 
 Example filename:  
-`NCT01234567_AntiCancer_Study_Protocol_SponsorX.docx`
+`NCT01234567_SponsorX.docx`
 
 ---
 
