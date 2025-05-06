@@ -15,11 +15,9 @@ Example filename:
 
 Currently available files are:
 
-[Protocol 1: NCT01619085 ](https://github.com/nimble-cr/Sample-Protocols/raw/main/NCT01619085_BoehringerIngelheim.docx)
+[Protocol 1: NCT04516746 ](https://github.com/nimble-cr/Sample-Protocols/raw/main/NCT04516746_AstraZenecca.docx)
 
-[Protocol 2: NCT04516746 ](https://github.com/nimble-cr/Sample-Protocols/raw/main/NCT04516746_AstraZenecca.docx)
-
-[Protocol 3: NCT05132127 ](https://github.com/nimble-cr/Sample-Protocols/raw/main/NCT05132127_Sanofi.docx)
+[Protocol 2: NCT05132127 ](https://github.com/nimble-cr/Sample-Protocols/raw/main/NCT05132127_Sanofi.docx)
 
 ---
 
